@@ -4,6 +4,7 @@
   SUBS\_PLAN\_ID : item.SUBS\_PLAN\_ID,
   SUBS\_ID : String\(item.SUBS\_ID\)
   };
+* CRM产品，不允许给添加带任何项目前缀的脚本，以后SA把项目化的脚本添加到产品的单子上面，开发可以直接回退回去 
 
 
 
