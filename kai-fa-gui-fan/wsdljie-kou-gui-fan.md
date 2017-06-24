@@ -8,8 +8,7 @@
     maxOccurs="unbounded"  
     type=xxx
 
-* 当返回字段是string，必选时，返回：  
-  type=xxx
+* 当返回字段是string，必选时，返回：type=xxx
 
 * 当返回字段是string，可选时，返回：nillable="true" minOccurs="0" type=xxx
 
