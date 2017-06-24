@@ -11,8 +11,9 @@
 
   ConfigItemCache.instance\(\).getLong\("INVENTORY.PUBLIC\_RES.BATCH\_THREAD\_NUM", 5\);
 
-    不允许使用BusiConfigurationFactory.instance\(\)
+  不允许使用BusiConfigurationFactory.instance\(\)
 
-* 
+* 产品流程不允许删除节点或者环节；
+
 
 
