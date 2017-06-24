@@ -6,9 +6,13 @@
   };
 
 * CRM产品，不允许给添加带任何项目前缀的脚本，以后SA把项目化的脚本添加到产品的单子上面，开发可以直接回退回去；
+
 * 获取CONFIG\_ITEM\_PARAM表的数据 使用 如下方式：ConfigItemCache.instance\(\).getString\("CUSTOMER\_CARE/CC\_PUBLIC/SAME\_FLOW\_4\_SERV\_TYPE"\)
 
   ConfigItemCache.instance\(\).getLong\("INVENTORY.PUBLIC\_RES.BATCH\_THREAD\_NUM", 5\);
 
+        不允许使用BusiConfigurationFactory.instance\(\)
+
+* 
 
 
