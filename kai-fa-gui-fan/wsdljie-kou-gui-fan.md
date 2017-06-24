@@ -20,7 +20,7 @@
   &lt;maxOccurs&gt;-1&lt;/maxOccurs&gt;  
   &lt;/extension&gt;
 
-* webservice的服务名 需要以WS开头 ex:WSActivation 包括产品 定制 和 开通
+* webservice的服务名需要以WS开头 ex:WSActivation 包括产品 定制 和 开通
 
 
 
